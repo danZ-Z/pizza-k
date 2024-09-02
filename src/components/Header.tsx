@@ -119,7 +119,10 @@ const Header = () => {
                         Kontakt
                       </NavigationMenuLink>
                       <NavigationMenuLink>
-                        <Button className="tracking-wider rajdhani-semibold ">
+                        <Button
+                          className="tracking-wider rajdhani-semibold "
+                          onClick={() => scrollToSection("contact")}
+                        >
                           Objednaj si tu <ChevronRightIcon />
                         </Button>
                       </NavigationMenuLink>
