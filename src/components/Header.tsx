@@ -48,7 +48,7 @@ const Header = () => {
               }}
             >
               <img
-                src="/logo.png"
+                src="/Logo.png"
                 alt="logo"
                 className="h-24 cursor-pointer min-w-24"
               />
