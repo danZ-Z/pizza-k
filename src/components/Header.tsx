@@ -121,7 +121,7 @@ const Header = () => {
                       <NavigationMenuLink>
                         <Button
                           className="tracking-wider rajdhani-semibold "
-                          onClick={() => scrollToSection("contact")}
+                          onClick={() => scrollToSection("order")}
                         >
                           Objednaj si tu <ChevronRightIcon />
                         </Button>
